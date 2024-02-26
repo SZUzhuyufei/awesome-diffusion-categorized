@@ -28,7 +28,7 @@
 <!-- - [Semantic Intrinsic](#semantic-intrinsic) -->
 
 
-## Diffusion Model Inversion
+## Diffusion models Inversion
 
 ⭐⭐⭐**Null-text Inversion for Editing Real Images using Guided Diffusion Models** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Mokady_NULL-Text_Inversion_for_Editing_Real_Images_Using_Guided_Diffusion_Models_CVPR_2023_paper.html)] 
